@@ -1,0 +1,8 @@
+title: "Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning"
+description: >
+  Jiakai Tang<sup>1</sup>, Sunhao Dai<sup>1</sup>, Zexu Sun<sup>1</sup>, Xu Chen<sup>1,*</sup>, Jun Xu<sup>1</sup>, Wenhui Yu<sup>2</sup>, Lantao Hu<sup>2</sup>, Peng Jiang<sup>2</sup>, Han Li<sup>2</sup> <br>
+  <sup>1</sup> Gaoling School of Artificial Intelligence, Renmin University of China <br>
+  <sup>2</sup> KuaiShou Technology
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
